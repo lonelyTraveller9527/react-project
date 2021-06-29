@@ -13,6 +13,7 @@ import { Provider } from 'react-redux'
 
 class App extends Component {
   state = {
+    test: 'yes'
   }
 
   render() {
